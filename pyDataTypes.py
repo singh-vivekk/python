@@ -8,7 +8,7 @@ print("***************  Python Data Types *******************")
 
 
 #List
-pyList=['first', 'second','third']
+pyList=['first','second','third']
 print(type(pyList))
 print(pyList)
 
