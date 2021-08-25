@@ -1,0 +1,30 @@
+#####   The self
+Class methods must have an extra first parameter in the method definition. We do not give a value for this parameter when we call the method, Python provides it.
+If we have a method that takes no arguments, then we still have to have one argument.
+This is similar to this pointer in C++ and this reference in Java.
+When we call a method of this object as myobject.method(arg1, arg2), this is automatically converted by Python into MyClass.method(myobject, arg1, arg2) – this is all the special self is about.
+
+#####   __init__ method
+The __init__ method is similar to constructors in C++ and Java.
+Constructors are used to initializing the object’s state.
+Like methods, a constructor also contains a collection of statements(i.e. instructions) that are executed at the time of Object creation.
+It runs as soon as an object of a class is instantiated.
+The method is useful to do any initialization you want to do with your object.
+
+#### Class and Instance Variables
+Instance variables are for data, unique to each instance.
+Class variables are for attributes and methods shared by all instances of the class.
+
+Instance variables are variables whose value is assigned inside a constructor or method with self whereas class variables are variables whose value is assigned in the class.
+Defining instance variable using a constructor.
+
+#### Abstract Classes in Python
+An abstract class can be considered as a blueprint for other classes.
+It allows you to create a set of methods that must be created within any child classes built from the abstract class.
+Python comes with a module that provides the base for defining Abstract Base classes(ABC) and that module name is ABC
+Abstract classes may contain both concrete methods and abstract methods.
+
+####  Inheritance in Python
+Inheritance is the capability of one class to derive or inherit the properties from another class
+Base or Super class. Note object in bracket.(Generally, object is made ancestor of all classes)
+In Python 3.x "class Person" is equivalent to "class Person(object)"
