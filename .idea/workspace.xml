@@ -2,47 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e301b11e-a50d-437d-89b6-693fbddce079" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/python.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datatypes/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datatypes/dtypes/CollectionDataType/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datatypes/dtypes/CollectionDataType/helloworld.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datatypes/dtypes/CollectionDataType/pyDataTypes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datatypes/dtypes/CollectionDataType/pyList.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datatypes/dtypes/CollectionDataType/pySets.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datatypes/dtypes/PrimitiveDataType/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datatypes/dtypes/PrimitiveDataType/decimalType.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datatypes/dtypes/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datatypes/dtypes/pyenums.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Datatypes/dtypes/scratch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pandas/Pandas_Create_DF.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pandas/Pandas_DF_functions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pandas/Pandas_DF_select.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pandas/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pandas/create_DF_advance.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pandas/pandas_example.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pandas/pandas_prac.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pandas/pd_series.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pandas/scratch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions/literal_eval_function.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/json_module/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/json_module/basic.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/json_module/loadJsonFromFile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/json_module/states.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/chandra/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/chandra/abstractClass.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/chandra/baseClass1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/chandra/baseClass2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/chandra/calc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/chandra/calc1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/chandra/child1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/chandra/grandChild1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyModules/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyModules/osfunctions.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/chandra/helpermodule.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/chandra/helpermoduleExecute.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/chandra/pyModules/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/chandra/pyModules/osfunctions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/chandra/pythondate.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions/pyException.py" afterPath="$PROJECT_DIR$/functions/pyException.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions/pyFlowControl.py" afterPath="$PROJECT_DIR$/functions/pyFlowControl.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions/pySuper.py" afterPath="$PROJECT_DIR$/functions/pySuper.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions/pymodules.py" afterPath="$PROJECT_DIR$/functions/pymodules.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/chandra/baseClass1.py" afterPath="$PROJECT_DIR$/practice/chandra/baseClass1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/chandra/baseClass2.py" afterPath="$PROJECT_DIR$/practice/chandra/baseClass2.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,7 +23,110 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pyInheritance.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/pyInheritance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="206" column="0" lean-forward="true" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pymodules.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/pymodules.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pySuper.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/pySuper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pyclass.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/pyclass.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1593">
+              <caret line="65" column="24" lean-forward="false" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pyDateTime.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/pyDateTime.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pythondate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/chandra/pythondate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="baseClass1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/chandra/baseClass1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helpermodule.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/chandra/helpermodule.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-81">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="baseClass2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/chandra/baseClass2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helpermoduleExecute.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practice/chandra/helpermoduleExecute.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -72,14 +146,24 @@
         <option value="$PROJECT_DIR$/pyDataTypes.py" />
         <option value="$PROJECT_DIR$/pythonModules.py" />
         <option value="$PROJECT_DIR$/pythonbasic.py" />
+        <option value="$PROJECT_DIR$/practice/chandra/pythondate.py" />
+        <option value="$PROJECT_DIR$/functions/pyException.py" />
+        <option value="$PROJECT_DIR$/functions/pyFlowControl.py" />
+        <option value="$PROJECT_DIR$/functions/pymodules.py" />
+        <option value="$PROJECT_DIR$/functions/pySuper.py" />
+        <option value="$PROJECT_DIR$/practice/chandra/baseClass1.py" />
+        <option value="$PROJECT_DIR$/practice/chandra/pyModules/helpermodule.py" />
+        <option value="$PROJECT_DIR$/practice/chandra/helpermodule.py" />
+        <option value="$PROJECT_DIR$/practice/chandra/baseClass2.py" />
+        <option value="$PROJECT_DIR$/practice/chandra/helpermoduleExecute.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="46" />
-    <option name="width" value="1296" />
-    <option name="height" value="1000" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -105,6 +189,17 @@
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="chandra" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -117,14 +212,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\python-lectures\python\practice\chandra" />
       <recent name="C:\Users\Administrator\PycharmProjects\python-lectures\python\Datatypes\dtypes\PrimitiveDataType" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\python-lectures\python\practice\chandra\pyModules" />
       <recent name="C:\Users\Administrator\PycharmProjects\python-lectures\python\pyModules" />
       <recent name="C:\Users\Administrator\PycharmProjects\python-lectures\python" />
       <recent name="C:\Users\Administrator\PycharmProjects\python-lectures\python\functions" />
       <recent name="C:\Users\Administrator\PycharmProjects\python-lectures\python\Datatypes" />
-      <recent name="C:\Users\Administrator\PycharmProjects\python-lectures\python\practice" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -139,106 +235,106 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pythonbasic">
-    <configuration name="abstractClassAndMethod" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.helpermoduleExecute">
+    <configuration name="baseClass2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/chandra" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="spark_begineers" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/abstractClassAndMethod.py" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/chandra/baseClass2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="enums" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="helpermoduleExecute" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/chandra" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="spark_begineers" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/enums.py" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/chandra/helpermoduleExecute.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="pyDataTypes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pyFlowControl" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="spark_begineers" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyDataTypes.py" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/pyFlowControl.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="pythonModules" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pySuper" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="spark_begineers" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonModules.py" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/pySuper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="pythonbasic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pymodules" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="spark_begineers" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonbasic.py" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/pymodules.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.pythonbasic" />
-      <item index="1" class="java.lang.String" itemvalue="Python.abstractClassAndMethod" />
-      <item index="2" class="java.lang.String" itemvalue="Python.enums" />
-      <item index="3" class="java.lang.String" itemvalue="Python.pythonModules" />
-      <item index="4" class="java.lang.String" itemvalue="Python.pyDataTypes" />
+      <item index="0" class="java.lang.String" itemvalue="Python.pyFlowControl" />
+      <item index="1" class="java.lang.String" itemvalue="Python.pymodules" />
+      <item index="2" class="java.lang.String" itemvalue="Python.pySuper" />
+      <item index="3" class="java.lang.String" itemvalue="Python.baseClass2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.helpermoduleExecute" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.pythonbasic" />
-        <item index="1" class="java.lang.String" itemvalue="Python.pyDataTypes" />
-        <item index="2" class="java.lang.String" itemvalue="Python.pythonModules" />
-        <item index="3" class="java.lang.String" itemvalue="Python.abstractClassAndMethod" />
-        <item index="4" class="java.lang.String" itemvalue="Python.enums" />
+        <item index="0" class="java.lang.String" itemvalue="Python.helpermoduleExecute" />
+        <item index="1" class="java.lang.String" itemvalue="Python.baseClass2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.pySuper" />
+        <item index="3" class="java.lang.String" itemvalue="Python.pymodules" />
+        <item index="4" class="java.lang.String" itemvalue="Python.pyFlowControl" />
       </list>
     </recent_temporary>
   </component>
@@ -256,12 +352,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="46" width="1296" height="1000" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37297735" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3107676" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45555556" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -282,7 +379,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -299,7 +398,7 @@
         <state relative-caret-position="270">
           <caret line="11" column="67" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="67" />
           <folding>
-            <element signature="e#173#183#0" expanded="true" />
+            <element signature="e#173#183#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -333,7 +432,7 @@
         <state relative-caret-position="270">
           <caret line="11" column="67" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="67" />
           <folding>
-            <element signature="e#173#183#0" expanded="true" />
+            <element signature="e#173#183#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -411,14 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions/literal_eval_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/json_module/basic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -439,6 +530,128 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/chandra/pyModules/osfunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/literal_eval_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="16" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/pyException.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/pyFileOperation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/pyFlowControl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="19" column="64" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/pyInheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="206" column="0" lean-forward="true" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/chandra/pythondate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/pyDateTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/pyclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1593">
+          <caret line="65" column="24" lean-forward="false" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/pySuper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/pymodules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/chandra/baseClass1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/chandra/helpermodule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/chandra/baseClass2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/chandra/helpermoduleExecute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding />
         </state>
       </provider>
