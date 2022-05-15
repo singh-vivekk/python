@@ -180,7 +180,7 @@ print(data[data['College']=='Alabama'][['Salary']].max())
 # print(data.loc[rows, columns])
 # print(data[columns].head())
 
-#Task: 
+#Task:
 # create a dataframe.
 # - apply pivot function
 # - apply transpose function
