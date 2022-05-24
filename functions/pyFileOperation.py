@@ -1,3 +1,22 @@
+# different modes:
+# With file access mode 'a'
+
+# Open a file with append as access mode 'a' and write data to it
+with open("sample.txt", "a") as file_object:
+    # Append 'hello' at the end of file
+    file_object.write("hello")
+
+
+# Open the file in append & read mode ('a+')
+with open("sample2.txt", "a+") as file_object:
+    # Move read cursor to the start of file.
+    file_object.seek(0)
+    # If file is not empty then append '\n'
+    data = file_object.read(100)
+    if len(data) > 0 :
+        file_object.write("\n")
+    # Append text at the end of file
+    file_object.write("hello hi")
 
 
 # Open a file
@@ -28,7 +47,7 @@ str = fo.read(30)
 print ("Pointer positioned at : ", str)
 
 
-# Close opend file
+# Close opened file
 fo.close()
 
 

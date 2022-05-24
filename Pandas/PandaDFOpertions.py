@@ -172,13 +172,62 @@ df_filter = data['College'].isin(teams)
 # print(df)
 
 # print(data[data['College']=='Arizona']['Salary'].max())
-print(data[data['College']=='Alabama'][['College','Salary']])
-print(data[data['College']=='Alabama'][['Salary']].max())
+# print(data[data['College']=='Alabama'][['College','Salary']])
+# print(data[data['College']=='Alabama'][['Salary']].max())
 # print(data[['Name', 'Number', 'Age']].head())
 
 # columns = ['Name', 'Number', 'Age']
 # print(data.loc[rows, columns])
 # print(data[columns].head())
+
+
+'''
+    df.count() - It provides you the number of data in the DataFrame in the specified direction. 
+    When the direction is 0, it provides the number of data in the columns:
+    Syntax: df.count(0) / df.count(1)
+'''
+# print(data.count(0))  -- count of items in each column
+# print(data.count(1))  -- count of items in each row
+    # As you can see, each row does not have the same number of data.
+    # If you observe the dataset carefully, you will see that it has a lot of null values in several columns.
+
+'''
+    pd.crosstab() - It gives you a frequency table that is a cross-tabulation of two variables.
+'''
+# print(pd.crosstab(data['Team'], data['Height']))
+# print(pd.crosstab(data['Team'], data['Height'],margins = True, margins_name="Total",     normalize = True))
+
+
+'''
+    df[‘’].describe() - This is a great function that provides some basic statistical measures
+'''
+# print(data['Age'].describe())
+
+
+'''
+    nlargest and nsmallest - This gives you the dataset with n number of largest values or smallest values of a specified variable
+'''
+# print(data.nlargest(5, "Age"))
+# print(data.nsmallest(5, "Age"))
+
+
+''' 
+    df.explode() - Explode can be useful when you have a list of data in some rows
+'''
+df1 = pd.DataFrame({"city": ['A', 'B', 'C'],
+                   "day1": [22, 25, 21],
+                   'day2':[31, 12, 67],
+                   'day3': [27, 20, 15],
+                   'day4': [34, 37, [41, 45, 67, 90, 21]],
+                   'day5': [23, 54, 36]})
+print(df1)
+
+print(df1.explode('day4'))
+print(df1.explode('day4').reset_index(drop=True))    # assigns distinct values to exploded row
+
+
+
+
 
 #Task:
 # create a dataframe.
